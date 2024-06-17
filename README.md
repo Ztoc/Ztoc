@@ -1,7 +1,7 @@
 <h1 align="center">Senior Fullstack Developer</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 6+ years of experience
+- 7+ years of experience
 - flexible and resourceful
 - creative, hard-working and detail-oriented
 - passionate about continuous learning and personal growth
